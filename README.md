@@ -24,7 +24,7 @@
 <li><strong>Exam-specific tips from Reddit & Forums:</strong> I frequently checked the CompTIA subreddit and other forums for exam experiences, tips, and advice from recent test-takers. Learning from others' experiences can be eye-opening.</li>
 </ul>
 
-<h2>Why I recommend these guide:</h2>
+<h2>Why I recommend these Practice Questions:</h2>
 
 <p><strong>Comprehensive Coverage:</strong> It covers all the necessary domains and objectives for the A+ exam, from hardware and networking to troubleshooting and mobile devices.</p>
 <p><strong>Real Exam-Like Practice:</strong> The practice questions mirror the actual exam format, giving you a feel for what to expect.</p>
