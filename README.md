@@ -7,13 +7,12 @@
 <h2>Here’s what helped me pass the A+ exam:</h2>
 
 <ul>
-    <li><strong>CompTIA A+ DumpsSpot Study Guide (Exam 220-1101 & 220-1102):</strong> This guide from DumpsSpot itself is super comprehensive and covers all the essential topics. It’s great for building a solid foundation.</li> <a href="https://bit.ly/CompTIA_Study_Guide" target="_blank">STUDY GUIDE</a>.</p>
-
+    
   <li><strong>Professor Messer’s Free Videos:</strong> His YouTube channel is a goldmine! He covers every topic in the A+ domains with easy-to-understand explanations and practice questions.</li>
 
   <li><strong>Jason Dion’s Practice Exams on Udemy:</strong> I highly recommend his practice tests! They closely mirror the actual exam format, helping you get a feel for the test’s structure and the type of questions you’ll face.</li>
 
-  <li><strong>ITExamsTest A+ Practice Questions:</strong> Another incredible resource that I used to reinforce my knowledge. The platform’s practice questions were tougher than the real exam, which prepared me well.</li>
+  <li><strong>Highly Recommended A+ Practice Questions:</strong> Another incredible resource that I used to reinforce my knowledge. The platform’s practice questions were tougher than the real exam, which prepared me well.</li>
   <a href="https://bit.ly/CompTIA-Practice-Questions" target="_blank">Best Practice Questions</a>.</p>
 
   <li><strong>CompTIA A+ Exam Cram by David L. Prowse:</strong> This book offers condensed notes and study tips for quick revision. It’s perfect for when you're reviewing in the days leading up to your test.</li>
