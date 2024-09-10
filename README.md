@@ -2,7 +2,7 @@
 
 <p>Hey everyone! 👋</p>
 
-<p>I’m excited to share that I’ve officially passed the CompTIA A+ exam, and I wanted to share a great resource that helped me succeed. If you’re struggling with study materials or looking for a solid study guide, check out this article <a href="https://sites.google.com/view/correct-comptia-220-1101-pdf/home" target="_blank">here</a>.</p>
+<p>I’m excited to share that I’ve officially passed the CompTIA A+ exam, and I wanted to share a great resource that helped me succeed. If you’re struggling with study materials or looking for a solid study guide.
 
 <p>The article breaks down everything you need to know about the exam and provides detailed insights on the best preparation methods. It also offers a super helpful PDF guide with real exam questions, explanations, and tips for navigating the exam’s tricky areas.</p>
 
@@ -27,7 +27,7 @@
 <li><strong>Exam-specific tips from Reddit & Forums:</strong> I frequently checked the CompTIA subreddit and other forums for exam experiences, tips, and advice from recent test-takers. Learning from others' experiences can be eye-opening.</li>
 </ul>
 
-<h2>Why I recommend the guide in the article:</h2>
+<h2>Why I recommend these guide:</h2>
 
 <p><strong>Comprehensive Coverage:</strong> It covers all the necessary domains and objectives for the A+ exam, from hardware and networking to troubleshooting and mobile devices.</p>
 <p><strong>Real Exam-Like Practice:</strong> The practice questions mirror the actual exam format, giving you a feel for what to expect.</p>
