@@ -4,8 +4,6 @@
 
 <p>I’m excited to share that I’ve officially passed the CompTIA A+ exam, and I wanted to share a great resource that helped me succeed. If you’re struggling with study materials or looking for a solid study guide.
 
-<p>The article breaks down everything you need to know about the exam and provides detailed insights on the best preparation methods. It also offers a super helpful PDF guide with real exam questions, explanations, and tips for navigating the exam’s tricky areas.</p>
-
 <h2>Here’s what helped me pass the A+ exam:</h2>
 
 <ul>
